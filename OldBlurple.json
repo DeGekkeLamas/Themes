@@ -1,0 +1,17 @@
+{
+    "manifest": {
+        "author": "degekkelamas",
+        "version": "1.0.0",
+        "name": "OldBlurple"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -9205543
+    },
+    "colors": {
+        "link": -15684630
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
