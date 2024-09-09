@@ -2,7 +2,8 @@
     "manifest": {
         "author": "degekkelamas",
         "version": "1.0.0",
-        "name": "OldBlurple"
+        "name": "OldBlurple",
+        "updater": "https:\/\/raw.githubusercontent.com\/DeGekkeLamas\/Themes\/main\/OldBlurple.json"
     },
     "background": {},
     "fonts": {},
